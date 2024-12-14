@@ -10,8 +10,9 @@ email: wan167@aucklanduni.ac.nz
 description: 
 footer_text: 
 keywords: # add your own keywords or leave empty
+
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🤷🏻‍♀️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ElinaWanqingAn.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -38,7 +39,9 @@ repo_trophies:
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
 rss_icon: true
-
+github_username: ElinaWanqingAn
+linkedin_username: wanqingan
+kaggle_id: wanqingan
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
