@@ -7,7 +7,7 @@ first_name: Wanqing
 middle_name:
 last_name: An
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email is always the best way to reach out.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -97,8 +97,8 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
-  max_related: 5
+  enabled: false
+  max_related: 0
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
